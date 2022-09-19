@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="auto" width="100%" src=""  />
+  <img height="auto" width="100%" src="8621_kanekihi.png"  />
 </div>
 
 ###
