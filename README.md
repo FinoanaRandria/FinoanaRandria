@@ -21,7 +21,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/GhosTHaise/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/FinoanaRandria/count.svg?"  />
 </div>
 
 ###
