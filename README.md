@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=FinoanaRandria&theme=tokyonight_duo&hide_border=true" />
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FinoanaRandria)](https://git.io/streak-stats)
 </div>
 
 ###
