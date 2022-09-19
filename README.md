@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="auto" width="100%" src="https://github.com/GhosTHaise/GhosTHaise/blob/main/Assets/GhosT.jpg"  />
+  <img height="auto" width="100%" src=""  />
 </div>
 
 ###
@@ -34,11 +34,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="66" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="66" alt="cplusplus logo"  />
   <img src="https://github.com/GhosTHaise/GhosTHaise/blob/main/Assets/Rust.png" height="45" width="45" alt="rust logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="66" alt="java logo"  />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="66" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="66" alt="typescript logo"  />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="66" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" width="66" alt="kotlin logo"  />
+  
 </div>
 
 ###
