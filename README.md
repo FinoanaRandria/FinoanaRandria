@@ -1,4 +1,4 @@
-<h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%teal&size=23&center=true&vCenter=true&lines=⭐⭐⭐⭐AO_DEV⭐⭐⭐⭐"></h1>
+<h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%teal&size=23&center=true&vCenter=true&lines=⭐⭐⭐AO_DEV⭐⭐⭐"></h1>
 <div align="center">
   <img height="30%" width="20%" src="i.gif"  />
 </div>
