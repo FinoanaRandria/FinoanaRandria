@@ -27,6 +27,8 @@
 
 ###
 
+
+
 <h3 align="left">Programming language :</h3>
 
 ###
@@ -109,5 +111,5 @@
 
 </div>
 
-
+![snake gif](https://github.com/FinoanaRandria/FinoanaRandria/blob/output/github-contribution-grid-snake.gif)
 
