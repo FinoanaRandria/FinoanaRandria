@@ -112,7 +112,12 @@
 
 
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=FinoanaRandria"/>
+  <h4 align="left">Stats :</h4>
+  
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FinoanaRandria" align="center"/>
+  </div>
+
 
 ![snake gif](https://github.com/FinoanaRandria/FinoanaRandria/blob/output/github-contribution-grid-snake.gif)
 
