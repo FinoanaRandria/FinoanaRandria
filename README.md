@@ -29,6 +29,8 @@
 
 
 
+
+
 <h3 align="left">Programming language :</h3>
 
 ###
@@ -110,6 +112,7 @@
 
 
 </div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=FinoanaRandria"/>
 
 ![snake gif](https://github.com/FinoanaRandria/FinoanaRandria/blob/output/github-contribution-grid-snake.gif)
 
