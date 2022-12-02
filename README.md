@@ -117,7 +117,7 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FinoanaRandria" align="center"/>
   </div>
-
+<h3 align="left">Just for Fun 🐍 :</h3>
 
 ![snake gif](https://github.com/FinoanaRandria/FinoanaRandria/blob/output/github-contribution-grid-snake.gif)
 
