@@ -1,6 +1,6 @@
-<h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%teal&size=23&center=true&vCenter=true&lines=⭐⭐⭐AO_DEV⭐⭐⭐"></h1>
+<div align=center><a href="/lottie/welcome-7140540" target="_blank" class="linkBlock_iq0Zu"><video loading="lazy" muted="muted" src="https://cdnl.iconscout.com/lottie/premium/thumb/welcome-7140540-5801164.mp4" type="video/mp4" autoplay="autoplay" loop="loop"></video></a></div>
 <div align="center">
-  <img height="30%" width="20%" src="i.gif"  />
+  <picture class="thumb_PdMgf"><img src="https://cdn3d.iconscout.com/3d/premium/thumb/e-learning-2978369-2472438.png" alt="E-learning 3D Illustration" loading="lazy"></picture>
 </div>
 
 ###
@@ -8,6 +8,11 @@
 <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com?user=FinoanaRandria&theme=tokyonight_duo&hide_border=true" />
 </div>
+
+<div align="center">
+ <picture class="thumb_PdMgf"><img src="https://cdn3d.iconscout.com/3d/premium/thumb/e-learning-2978369-2472438.png" alt="E-learning 3D Illustration" loading="lazy"></picture>
+</div>
+
 
 ###
 
@@ -28,7 +33,7 @@
 ###
 
 
-<a class="bio-cta" href="https://www.danilo-delbusso.me/" rel="ugc"><i class="far fa-ghost" style="font-size:1.8rem" aria-hidden="true"></i>There's more here!</a>
+
 
 
 <h3 align="left">Programming language :</h3>
