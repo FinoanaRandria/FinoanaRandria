@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
- <picture class="thumb_PdMgf"><img src="https://cdn3d.iconscout.com/3d/premium/thumb/e-learning-2978369-2472438.png" alt="E-learning 3D Illustration" loading="lazy"></picture>
+ <video src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/sudo-rm-command-to-remove-operating-sysytem-on-linux-laptop-6763033-5628357.mp4" autoplay="autoplay" muted="muted" loop="loop" playsinline="" type="video/mp4"></video>
 </div>
 
 
