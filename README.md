@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
- <video width="400" controls><source src="sudo.mp4" type="video/mp4"></video>
+ <img src="sudo.gif" width='200px' />
 </div>
 
 
