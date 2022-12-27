@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
- <video src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/sudo-rm-command-to-remove-operating-sysytem-on-linux-laptop-6763033-5628357.mp4" autoplay="autoplay" muted="muted" loop="loop" playsinline="" type="video/mp4"></video>
+ <video width="400" controls><source src="sudo.mp4" type="video/mp4"></video>
 </div>
 
 
