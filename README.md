@@ -120,8 +120,15 @@
 </div>
   <h4 align="left">Stats :</h4>
   
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FinoanaRandria" align="center"/>
+</div>
+<div >
+   <table>
+<tbody><tr>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=FinoanaRandria" align="center"/>
+</td>
+<td><img align="center" src="https://github-readme-stats.vercel.app/api?username=FinoanaRandria&theme=transparent&show_icons=true" alt="FinoanaRandria" /></td>
+</tr>
+</tbody></table>                                                                                            
   </div>
 <h3 align="left">Just for Fun 🐍 :</h3>
 
