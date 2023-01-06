@@ -130,7 +130,5 @@
 </tr>
 </tbody></table>                                                                                            
   </div>
-<h3 align="left">Just for Fun 🐍 :</h3>
 
-![snake gif](https://github.com/FinoanaRandria/FinoanaRandria/blob/output/github-contribution-grid-snake.gif)
 
