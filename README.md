@@ -101,7 +101,7 @@
 
 <div align="center">
   
- [![SkillIcons](https://skillicons.dev/icons?i=linux,git,github,visualstudio,vscode,eclipse,ps)](https://skillicons.dev)<br/>
+ [![SkillIcons](https://skillicons.dev/icons?i=linux,git,github,vscode,eclipse,ps)](https://skillicons.dev)<br/>
 
 
 </div>
