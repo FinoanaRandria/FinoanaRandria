@@ -1,7 +1,5 @@
 <div align=center><a href="/lottie/welcome-7140540" target="_blank" class="linkBlock_iq0Zu"><video loading="lazy" muted="muted" src="https://cdnl.iconscout.com/lottie/premium/thumb/welcome-7140540-5801164.mp4" type="video/mp4" autoplay="autoplay" loop="loop"></video></a></div>
-//<div align="center">
- // <picture class="thumb_PdMgf"><img src="https://cdn3d.iconscout.com/3d/premium/thumb/e-learning-2978369-2472438.png" alt="E-learning 3D Illustration" loading="lazy"></picture>
-//</div>
+
 
 ###
 
