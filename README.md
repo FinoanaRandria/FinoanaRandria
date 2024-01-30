@@ -48,7 +48,7 @@
   
   
 
-  [![SkillIcons](https://skillicons.dev/icons?i=python,java,cpp)](https://skillicons.dev)<br/>
+  [![SkillIcons](https://skillicons.dev/icons?i=python)](https://skillicons.dev)<br/>
   
 </div>
 
