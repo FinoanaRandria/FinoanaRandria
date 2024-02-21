@@ -60,7 +60,7 @@
 
 <div align="center">
   
- [![SkillIcons](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,react,next)](https://skillicons.dev)<br/>
+ [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,react,next,vue)](https://skillicons.dev)<br/>
   
 </div>
   
