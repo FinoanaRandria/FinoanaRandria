@@ -5,23 +5,7 @@
 
 <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com?user=FinoanaRandria&theme=tokyonight_duo&hide_border=true" />
-</div>
-
-<div align="center">
- <img src="sudo.gif" width='200px' />
-</div>
-
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <br/>
-  <br/>
+   <br/>
    <a href="https://portfolio-finoana-randria.vercel.app/">
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Finoana Randri" />
   </a><br/>
@@ -36,84 +20,46 @@
 
 ###
 
-
-
-
-
-<h3 align="left">Programming language :</h3>
-
 ###
 
 <div align="center">
-  
-  
+  <div align="center">
 
-  [![SkillIcons](https://skillicons.dev/icons?i=python)](https://skillicons.dev)<br/>
-  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
+
+
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+
+
+
+
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 </div>
 
-###
-
-<h4 align="left">Front :</h4>
-
-###
-
-<div align="center">
-  
- [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,react,next,vue)](https://skillicons.dev)<br/>
-  
-</div>
-  
-  
-
-###
-
-<h4 align="left">Back :</h4>
-
-###
-
-<div align="center">
-
-   [![SkillIcons](https://skillicons.dev/icons?i=php,nodejs,express)](https://skillicons.dev)<br/>
- 
-
- 
-</div>
-
-###
-
-<h4 align="left">Database :</h4>
-
-###
-
-<div align="center">
-
-  [![SkillIcons](https://skillicons.dev/icons?i=mysql,mongodb,firebase)](https://skillicons.dev)<br/>
-</div>
-
-###
-
-<h4 align="left">Tools :</h4>
-
-###
-
-<div align="center">
-  
- [![SkillIcons](https://skillicons.dev/icons?i=linux,git,github,vscode,eclipse,ps)](https://skillicons.dev)<br/>
-
-
-</div>
-  <h4 align="left">Stats :</h4>
-  
-</div>
-<div >
-   <table>
-<tbody><tr>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=FinoanaRandria" align="center"/>
-</td>
-<td><img align="center" src="https://github-readme-stats.vercel.app/api?username=FinoanaRandria&theme=transparent&show_icons=true" alt="FinoanaRandria" /></td>
-</tr>
-</tbody></table>                                                                                            
-  </div>
 
 
